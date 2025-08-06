@@ -1,0 +1,12 @@
+.HeaderApp {
+  width: 100vw;
+  height: 80px;
+  font-size: 2em;
+  font-weight: 700;
+  background-color: aqua;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
