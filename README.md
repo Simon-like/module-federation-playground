@@ -776,7 +776,3 @@ timeline
 ---
 
 *"架构的艺术在于平衡复杂性与灵活性，模块联邦正是这种平衡的完美体现。"*
-
-**项目地址**: `/Applications/PersonalWork/Lerning/Module_Federation`  
-**学习时间**: 2024年  
-**技术栈**: Webpack 5, Vite 4, React 18, Vue 3, TypeScript
